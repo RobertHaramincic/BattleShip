@@ -1,0 +1,12 @@
+D:\dSPACE\VsiTe\VsProjects\Battleship\Model\bin\Debug\Model.dll
+D:\dSPACE\VsiTe\VsProjects\Battleship\Model\bin\Debug\Model.pdb
+D:\dSPACE\VsiTe\VsProjects\Battleship\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\dSPACE\VsiTe\VsProjects\Battleship\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\dSPACE\VsiTe\VsProjects\Battleship\Model\obj\Debug\Model.dll
+D:\dSPACE\VsiTe\VsProjects\Battleship\Model\obj\Debug\Model.pdb
+D:\dSPACE\VsiTe\VsProjects\BattleShipGui\Model\bin\Debug\Model.dll
+D:\dSPACE\VsiTe\VsProjects\BattleShipGui\Model\bin\Debug\Model.pdb
+D:\dSPACE\VsiTe\VsProjects\BattleShipGui\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\dSPACE\VsiTe\VsProjects\BattleShipGui\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\dSPACE\VsiTe\VsProjects\BattleShipGui\Model\obj\Debug\Model.dll
+D:\dSPACE\VsiTe\VsProjects\BattleShipGui\Model\obj\Debug\Model.pdb
